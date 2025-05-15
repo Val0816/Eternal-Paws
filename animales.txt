@@ -1,0 +1,9 @@
+
+Perro,Max,3,Meses,Bueno,false,true,2024-05-04,Labrador 
+Perro,Love,2,Meses,Bueno,false,true,2024-08-30,Golde Retriever 
+Perro,Leo,5,Meses,Bueno,false,true,2025-05-04,Doberman
+Ave,Piolin,4,Meses,Bueno
+Perro,Lego,5,Meses,Bueno,false,true,2024-05-02,Labrador 
+Gato,Lili,5,Meses,Bueno
+Gato,Lili,6,Meses,Bueno,false,true,2025-01-15
+Perro,Teo,5,Meses,Bueno,false,true,2024-05-06,Labrador

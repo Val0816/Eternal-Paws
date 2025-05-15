@@ -1,0 +1,4 @@
+ADOPCION | Nombre: Max | Especie: Perro | Edad: 3 Meses | Salud: Bueno | Fecha: 2025-05-10
+ADOPCION | Nombre: Love | Especie: Perro | Edad: 2 Meses | Salud: Bueno | Fecha: 2025-05-11
+ADOPCION | Nombre: Max | Especie: Perro | Edad: 3 Meses | Salud: Bueno | Fecha: 2025-05-14
+ADOPCION | Nombre: Leo | Especie: Perro | Edad: 5 Meses | Salud: Bueno | Fecha: 2025-05-14
